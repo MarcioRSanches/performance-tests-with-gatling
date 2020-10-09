@@ -14,7 +14,7 @@ After that, clone this repository and run the following command:
 mvn clean gatling:test
 ```
 
-You can use this as a base to start your won performance test project.
+You can use this as a base to start your own performance test project.
 
 
 
